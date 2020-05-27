@@ -1,0 +1,24 @@
+{
+  "name": "meuprojetoteste",
+  "version": "1.0.0",
+  "description": "aprendendo JS com TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilherme4072/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Guilherme Cordeiro <guilherme4072@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilherme4072/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/guilherme4072/js-tdd-course#readme"
+}
